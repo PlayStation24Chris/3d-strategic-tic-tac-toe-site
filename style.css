@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Type-Machine';
+    src: url(Resources/Fonts/TypeMachine.ttf);
+}
+
+body
+{
+    background-color: #e58840;
+    text-align: center;
+    font-family: "Type-Machine";
+    font-weight: bold;
+}
+
+h1
+{
+    font-size: 60px;
+}
