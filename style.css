@@ -15,3 +15,18 @@ h1
 {
     font-size: 45px;
 }
+
+.largespace
+{
+    height: 500px;
+}
+
+.disclaimer
+{
+    font-size: smaller;
+}
+
+.smaller-disclaimer
+{
+    font-size: xx-small;
+}
